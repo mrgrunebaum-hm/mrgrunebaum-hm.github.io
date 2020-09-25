@@ -8,7 +8,7 @@ tags: [good, bad, design]
 
 ## Good vs. Bad Design
 
-![Screenshot](/../img/Screen Shot 2020-09-25 at 2.39.16 PM.png)
+![Screenshot](https://raw.githubusercontent.com/mrgrunebaum-hm/mrgrunebaum-hm.github.io/master/img/Screen%20Shot%202020-09-25%20at%202.39.16%20PM.png)
 
 Lorem ipsum. Lorem ipsum.Lorem ipsum.Lorem ipsum.Lorem ipsum.Lorem ipsum.Lorem ipsum.Lorem ipsum.Lorem ipsum.Lorem ipsum.Lorem ipsum.Lorem ipsum.Lorem ipsum.Lorem ipsum.Lorem ipsum.Lorem ipsum.Lorem ipsum.Lorem ipsum.Lorem ipsum.
 
